@@ -1,0 +1,1 @@
+Claude Fitness MCP is a personal, non-commercial application for the owner's individual use, provided as-is with no warranty. It accesses only the owner's own Oura account data, with their authorization, for personal health tracking. There are no other users and no support obligations. Contact: missmolotov@protonmail.com
